@@ -11,6 +11,9 @@ A basically normal village.
 ## Margrave's Camp
 The camp of the local Margrave's small army, arrived to wrest control from the occupants of the [Outer Gatehouse](regions/surrounds.md#outer-gatehouse).
 
+## Watchtower
+An outlying Moon Elf watchtower, set amongst the villages and occupied by the [Watchtower Crone]().
+
 ## Wizard Bridge
 An illusory bridge paired with an invisible bridge some distance away spanning the Fissure.
 

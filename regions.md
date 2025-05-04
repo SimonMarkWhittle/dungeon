@@ -9,6 +9,7 @@ The above-ground regions surrounding the Fortress.
 * [Wizard Bridge](regions/surrounds.md#wizard-bridge) - An illusory bridge paired with an invisible bridge some distance away spanning the Fissure.
 * [Remote Hamlet](regions/surrounds.md#remote-hamlet) - A small, but prosperous settlement located across the Fissure, out of reach of local authority.
 * [Outer Gatehouse](regions/surrounds.md#outer-gatehouse) - The gatehouse-turned-baronet's-keep located across the Fissure-spanning causeway from the Fortress.
+* [Watchtower](regions/surrounds.md#watchtower) - An outlying Moon Elf watchtower, set amongst the villages and occupied by the [Watchtower Crone]().
 
 
 ### Fissure
