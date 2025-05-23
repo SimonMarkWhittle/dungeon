@@ -48,3 +48,5 @@ Persons or small groups that are pursuing personal goals in the dungeon.
 * Orange Mandy - A teen girl from the villages, so called teasingly due to her hair, who finally ran off to the Fortress via the Crone and now lives on stolen grain and moon spider eggs, aghast at the wonder of this place.
 * Mandy's Mom - After some months, Mandy's mother brought her sisters and uncle to the Crone to enter the Fortress and get her girl back, but were underprepared.
 ______ - The Crone's student, feeling guilty over the villagers' callous treatment, attempted to follow after to help the doomed search party, but quickly got separated and lost.
+* Halmpt the Music Box Man - Pissed off a wizard and got sent to the Fortress.
+
